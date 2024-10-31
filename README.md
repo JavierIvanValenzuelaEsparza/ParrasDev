@@ -30,7 +30,7 @@ ParrasDev/ │ ├── RegisterView.swift # Vista para el registro de usuario 
 
 3. Asegúrate de tener el archivo GoogleService-Info.plist en el directorio del proyecto, ya que es necesario para la configuración de Firebase.
 
-4. Instala las dependencias de Firebase (si es necesario).
+4. Instala las dependencias de Firebase.
 
 5. Configura Firebase Authentication en el Firebase Console:
 
